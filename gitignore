@@ -1,0 +1,39 @@
+# Dependencies
+node_modules
+
+# Next.js build output
+.next
+next-env.d.ts
+tsconfig.tsbuildinfo
+
+# Environment files
+.env
+.env*.local
+
+# Dev server logs (all variants)
+*.log
+*.err.log
+*.out.log
+.next-dev*.log
+next-dev*.log
+next-live*.log
+next-start*.log
+
+# Chrome screenshot profiles
+.chrome-shot-profile*/
+
+# Reference screenshots dumped to root
+why-work-*.png
+footer-*.png
+guide-section.png
+*-screenshot.png
+*-desktop.png
+*-mobile.png
+*-test.png
+*-test*.png
+
+# Claude Code internals
+.claude/
+
+.vercel/
+.env.local
