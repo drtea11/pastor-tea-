@@ -1,0 +1,34 @@
+<svg width="900" height="1350" viewBox="0 0 900 1350" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1350" fill="#FFF4EA"/>
+  <rect x="60" y="60" width="780" height="1230" rx="8" fill="url(#bg)" stroke="#E8DDD0" stroke-width="2"/>
+  <path d="M160 204H740" stroke="#0B0D10" stroke-opacity="0.2" stroke-width="2"/>
+  <path d="M160 1142H740" stroke="#0B0D10" stroke-opacity="0.2" stroke-width="2"/>
+  <circle cx="450" cy="612" r="250" fill="url(#aura)"/>
+  <g transform="translate(292 410)">
+    <rect x="0" y="0" width="126" height="52" rx="26" fill="#0B0D10"/>
+    <rect x="158" y="0" width="126" height="52" rx="26" fill="#D45D34"/>
+    <rect x="79" y="88" width="126" height="52" rx="26" fill="#F2B84B"/>
+    <rect x="0" y="176" width="126" height="52" rx="26" fill="#D45D34"/>
+    <rect x="158" y="176" width="126" height="52" rx="26" fill="#0B0D10"/>
+    <path d="M63 26H220" stroke="#FBF8F1" stroke-opacity="0.42" stroke-width="2"/>
+    <path d="M142 114L63 202" stroke="#0B0D10" stroke-opacity="0.22" stroke-width="2"/>
+    <path d="M221 202L142 114" stroke="#0B0D10" stroke-opacity="0.22" stroke-width="2"/>
+  </g>
+  <circle cx="450" cy="642" r="16" fill="#0B0D10"/>
+  <text x="450" y="170" text-anchor="middle" fill="#0B0D10" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="8">DR. TEMITOPE AROWELE</text>
+  <text x="450" y="986" text-anchor="middle" fill="#0B0D10" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="900" letter-spacing="-4">IGNITE</text>
+  <text x="450" y="1078" text-anchor="middle" fill="#0B0D10" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="900" letter-spacing="-3">CAPSULES</text>
+  <text x="450" y="1188" text-anchor="middle" fill="#D45D34" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="5">SHORT WISDOM FOR INNER FIRE</text>
+  <defs>
+    <linearGradient id="bg" x1="60" y1="60" x2="840" y2="1290" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="0.58" stop-color="#F7E3D7"/>
+      <stop offset="1" stop-color="#FFF9EF"/>
+    </linearGradient>
+    <radialGradient id="aura" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(450 612) rotate(90) scale(250)">
+      <stop stop-color="#F2B84B" stop-opacity="0.48"/>
+      <stop offset="0.54" stop-color="#D45D34" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#0B0D10" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

@@ -1,0 +1,21 @@
+<svg width="900" height="1350" viewBox="0 0 900 1350" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1350" fill="#1E0710"/>
+  <rect x="58" y="58" width="784" height="1234" rx="8" fill="url(#bg)" stroke="#B98E65" stroke-width="2"/>
+  <path d="M160 210H740" stroke="#B98E65" stroke-opacity="0.62" stroke-width="2"/>
+  <path d="M160 1140H740" stroke="#E7D5BE" stroke-opacity="0.5" stroke-width="2"/>
+  <path d="M450 326C560 397 622 512 622 642C622 821 504 934 450 981C396 934 278 821 278 642C278 512 340 397 450 326Z" fill="#2A0815" stroke="#F6E9D8" stroke-opacity="0.22" stroke-width="2"/>
+  <path d="M450 420C521 476 562 558 562 650C562 758 498 842 450 889C402 842 338 758 338 650C338 558 379 476 450 420Z" fill="#6D1029" fill-opacity="0.3" stroke="#B98E65" stroke-opacity="0.75" stroke-width="2"/>
+  <path d="M450 520L490 642L450 764L410 642L450 520Z" fill="#B98E65" fill-opacity="0.8"/>
+  <text x="450" y="170" text-anchor="middle" fill="#F5F7F8" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="8">DR. TEMITOPE AROWELE</text>
+  <text x="450" y="984" text-anchor="middle" fill="#F5F7F8" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="900" letter-spacing="-2">OVERCOMING</text>
+  <text x="450" y="1055" text-anchor="middle" fill="#F5F7F8" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="900" letter-spacing="-1">THE FORCES</text>
+  <text x="450" y="1115" text-anchor="middle" fill="#F5F7F8" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="900" letter-spacing="1">AGAINST YOUR LIFE</text>
+  <text x="450" y="1196" text-anchor="middle" fill="#B98E65" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="5">BREAK RESISTANCE. RISE WITH CLARITY.</text>
+  <defs>
+    <linearGradient id="bg" x1="58" y1="58" x2="842" y2="1292" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#41101E"/>
+      <stop offset="0.48" stop-color="#13050A"/>
+      <stop offset="1" stop-color="#2C0712"/>
+    </linearGradient>
+  </defs>
+</svg>

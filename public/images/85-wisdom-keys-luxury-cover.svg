@@ -1,0 +1,27 @@
+<svg width="900" height="1350" viewBox="0 0 900 1350" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1350" fill="#F5E9D2"/>
+  <rect x="54" y="54" width="792" height="1242" rx="8" fill="#071B2D"/>
+  <rect x="92" y="92" width="716" height="1166" rx="3" fill="url(#bg)" stroke="#C6A15B" stroke-width="2"/>
+  <path d="M158 205H742" stroke="#C6A15B" stroke-width="2"/>
+  <path d="M158 1138H742" stroke="#C6A15B" stroke-width="2"/>
+  <circle cx="450" cy="596" r="210" stroke="#C6A15B" stroke-opacity="0.7" stroke-width="2"/>
+  <circle cx="450" cy="596" r="148" stroke="#F1D28A" stroke-opacity="0.52" stroke-width="2"/>
+  <g opacity="0.42">
+    <path d="M450 386V806" stroke="#FFF7E8" stroke-width="2"/>
+    <path d="M240 596H660" stroke="#FFF7E8" stroke-width="2"/>
+    <path d="M302 448L598 744" stroke="#FFF7E8" stroke-width="2"/>
+    <path d="M598 448L302 744" stroke="#FFF7E8" stroke-width="2"/>
+  </g>
+  <circle cx="450" cy="596" r="34" fill="#C6A15B"/>
+  <text x="450" y="170" text-anchor="middle" fill="#FFF7E8" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="8">DR. TEMITOPE AROWELE</text>
+  <text x="450" y="915" text-anchor="middle" fill="#FFF7E8" font-family="Arial, Helvetica, sans-serif" font-size="156" font-weight="900" letter-spacing="-8">85</text>
+  <text x="450" y="1010" text-anchor="middle" fill="#FFF7E8" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="900" letter-spacing="-2">WISDOM KEYS</text>
+  <text x="450" y="1074" text-anchor="middle" fill="#C6A15B" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" letter-spacing="4">FOR WORLD CHANGERS</text>
+  <defs>
+    <linearGradient id="bg" x1="92" y1="92" x2="808" y2="1258" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#082C47"/>
+      <stop offset="0.52" stop-color="#071B2D"/>
+      <stop offset="1" stop-color="#130F08"/>
+    </linearGradient>
+  </defs>
+</svg>

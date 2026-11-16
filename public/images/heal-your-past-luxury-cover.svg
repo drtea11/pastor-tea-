@@ -1,0 +1,29 @@
+<svg width="900" height="1350" viewBox="0 0 900 1350" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1350" fill="#F7F4EF"/>
+  <rect x="42" y="42" width="816" height="1266" rx="10" fill="#FFFFFF" stroke="#E7DED1" stroke-width="2"/>
+  <rect x="78" y="78" width="744" height="1194" rx="4" fill="url(#paper)"/>
+  <path d="M130 208H770" stroke="#0B0D10" stroke-width="2"/>
+  <path d="M130 1142H770" stroke="#0B0D10" stroke-width="2"/>
+  <path d="M450 281C552 356 618 475 618 609C618 806 489 942 450 980C411 942 282 806 282 609C282 475 348 356 450 281Z" fill="url(#aura)" opacity="0.95"/>
+  <path d="M450 377C513 430 553 511 553 602C553 734 479 831 450 864C421 831 347 734 347 602C347 511 387 430 450 377Z" fill="#F8F5EF" fill-opacity="0.88" stroke="#0394D7" stroke-opacity="0.45" stroke-width="2"/>
+  <path d="M450 507C477 538 493 579 493 622C493 692 461 745 450 762C439 745 407 692 407 622C407 579 423 538 450 507Z" fill="#A5CD39" fill-opacity="0.2" stroke="#A5CD39" stroke-opacity="0.65" stroke-width="2"/>
+  <circle cx="450" cy="626" r="182" stroke="#0B0D10" stroke-opacity="0.08" stroke-width="2"/>
+  <circle cx="450" cy="626" r="238" stroke="#0394D7" stroke-opacity="0.14" stroke-width="2"/>
+  <text x="450" y="168" text-anchor="middle" fill="#0B0D10" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="8">DR. TEMITOPE AROWELE</text>
+  <text x="450" y="1018" text-anchor="middle" fill="#0B0D10" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="900" letter-spacing="-4">HEAL</text>
+  <text x="450" y="1102" text-anchor="middle" fill="#0B0D10" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="900" letter-spacing="-3">YOUR PAST</text>
+  <text x="450" y="1172" text-anchor="middle" fill="#0394D7" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" letter-spacing="1">CHANGE YOUR FUTURE</text>
+  <text x="450" y="1232" text-anchor="middle" fill="#0B0D10" fill-opacity="0.56" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="5">A GUIDE TO RENEWAL AND FORWARD MOVEMENT</text>
+  <defs>
+    <linearGradient id="paper" x1="78" y1="78" x2="822" y2="1272" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FCFBF8"/>
+      <stop offset="0.55" stop-color="#F2EEE7"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <radialGradient id="aura" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(450 620) rotate(90) scale(430 330)">
+      <stop stop-color="#0394D7" stop-opacity="0.34"/>
+      <stop offset="0.52" stop-color="#A5CD39" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#0B0D10" stop-opacity="0.04"/>
+    </radialGradient>
+  </defs>
+</svg>
